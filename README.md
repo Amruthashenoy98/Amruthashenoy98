@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Amrutha 👋
 
-<!--
-**Amruthashenoy98/Amruthashenoy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a highly motivated Data Enthusiast with a strong foundation in SQL, data analysis, and manipulation. My data journey started when I was working as an ETL tester for approximately 2 years where my day-to-day responsibilities included managing and analyzing data, and testing the ETL process to ensure data is consistent and accurate as per the business requirements.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming Languages: Python, SQL
+- Python packages/frameworks: Pandas, NumPy, Scikit-learn, SciPy, Flask
+- Data manipulation & visualization tools: Power BI, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/amrutha-shenoy-32b8131aa/
+- Email: shenoyamrutha98@gmail.com
+
