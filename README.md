@@ -1,7 +1,7 @@
 # Hi there, I'm Amrutha 👋
 
 ## 💻 About Me
-I'm a highly motivated Data Enthusiast with a strong foundation in SQL, data analysis, and manipulation. My data journey started when I was working as an ETL tester for approximately 2 years where my day-to-day responsibilities included managing and analyzing data, and testing the ETL process to ensure data is consistent and accurate as per the business requirements.
+I'm a highly motivated Data Enthusiast with a strong foundation in SQL, data analysis, and data manipulation. My data journey began as an ETL tester, where I spent nearly 2 years managing and analyzing data, ensuring data consistency, and validating the ETL process to meet business requirements.
 
 ## 🔧 Skills
 - Programming Languages: Python, SQL
