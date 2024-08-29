@@ -11,6 +11,9 @@ I'm a highly motivated Data Enthusiast with a strong foundation in SQL, data ana
 ##### Checkout my Portfolio
 Link - https://www.datascienceportfol.io/amruthashenoy98
 
+##### My Medium Blog
+Link - https://medium.com/@shenoyamrutha98
+
 ##### 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/amrutha-shenoy-32b8131aa/
 - Email: shenoyamrutha98@gmail.com
