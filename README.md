@@ -8,6 +8,9 @@ I'm a highly motivated Data Enthusiast with a strong foundation in SQL, data ana
 - Python packages/frameworks: Pandas, NumPy, Scikit-learn, SciPy, Flask
 - Data manipulation & visualization tools: Power BI, Excel
 
+##### Checkout my Portfolio
+Link - https://www.datascienceportfol.io/amruthashenoy98
+
 ##### 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/amrutha-shenoy-32b8131aa/
 - Email: shenoyamrutha98@gmail.com
